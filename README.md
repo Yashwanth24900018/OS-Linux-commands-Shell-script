@@ -2,8 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-# Name: Kailash Prabhu S
-# Regno : 212224240068
+# Name: Yashwanth asv
+# Regno : 212224230309
 # AIM:
 To practice Linux Commands and Shell Scripting
 
